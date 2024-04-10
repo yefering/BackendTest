@@ -1,0 +1,382 @@
+[
+  {
+    "hotelId": 123,
+    "contractId": 567,
+    "rateId": 789,
+    "date": "2024-03-28T00:00:00.000Z",
+    "roomTypeCode": "DBL",
+    "roomUse": {
+      "code": "AD+2NI",
+      "description": "AD+NI+1N",
+      "guestDistribution": {
+        "adults": 2,
+        "children": 2
+      },
+      "childAgeRange": {
+        "from": 1,
+        "to": 12
+      }
+    },
+    "boardPrices": [
+      {
+        "code": "MP",
+        "basePriceFinalVersion": {
+          "adultsPrices": [
+            100.0
+          ],
+          "childrenPrices": [
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 0,
+              "occupationType": "1N"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 138.06,
+              "occupationType": "1N"
+            }
+          ],
+          "roomPrice": 150.0,
+          "totalPrice": 300.0
+        },
+        "basePriceInitialVersion": {
+          "adultsPrices": [
+            110.0
+          ],
+          "childrenPrices": [
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 0,
+              "occupationType": "1N"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 138.06,
+              "occupationType": "1N"
+            }
+          ],
+          "roomPrice": 165.0,
+          "totalPrice": 330.0
+        }
+      }
+    ],
+    "availableRooms": 6,
+    "stopSale": {
+      "active": false,
+      "reason": "NO_REASON"
+    }
+  },
+  {
+    "hotelId": 123,
+    "contractId": 567,
+    "rateId": 789,
+    "date": "2024-03-29T00:00:00.000Z",
+    "roomTypeCode": "DBL",
+    "roomUse": {
+      "code": "AD+2NI",
+      "description": "AD+NI+1N",
+      "guestDistribution": {
+        "adults": 2,
+        "children": 2
+      },
+      "childAgeRange": {
+        "from": 1,
+        "to": 12
+      }
+    },
+    "boardPrices": [
+      {
+        "code": "MP",
+        "basePriceFinalVersion": {
+          "adultsPrices": [
+            100.0
+          ],
+          "childrenPrices": [
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 0,
+              "occupationType": "1N"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 138.06,
+              "occupationType": "1N"
+            }
+          ],
+          "roomPrice": 150.0,
+          "totalPrice": 300.0
+        },
+        "basePriceInitialVersion": {
+          "adultsPrices": [
+            110.0
+          ],
+          "childrenPrices": [
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 0,
+              "occupationType": "1N"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 138.06,
+              "occupationType": "1N"
+            }
+          ],
+          "roomPrice": 165.0,
+          "totalPrice": 330.0
+        }
+      }
+    ],
+    "availableRooms": 1,
+    "stopSale": {
+      "active": false,
+      "reason": "NO_REASON"
+    }
+  },
+  {
+    "hotelId": 123,
+    "contractId": 567,
+    "rateId": 789,
+    "date": "2024-03-28T00:00:00.000Z",
+    "roomTypeCode": "DLKM",
+    "roomUse": {
+      "code": "AD+2NI",
+      "description": "AD+NI+1N",
+      "guestDistribution": {
+        "adults": 2,
+        "children": 2
+      },
+      "childAgeRange": {
+        "from": 1,
+        "to": 12
+      }
+    },
+    "boardPrices": [
+      {
+        "code": "AA",
+        "basePriceFinalVersion": {
+          "adultsPrices": [
+            100.0
+          ],
+          "childrenPrices": [
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 0,
+              "occupationType": "1N"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 138.06,
+              "occupationType": "1N"
+            }
+          ],
+          "roomPrice": 150.0,
+          "totalPrice": 300.0
+        },
+        "basePriceInitialVersion": {
+          "adultsPrices": [
+            110.0
+          ],
+          "childrenPrices": [
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 0,
+              "occupationType": "1N"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 138.06,
+              "occupationType": "1N"
+            }
+          ],
+          "roomPrice": 165.0,
+          "totalPrice": 330.0
+        }
+      }
+    ],
+    "availableRooms": 6,
+    "stopSale": {
+      "active": false,
+      "reason": "NO_REASON"
+    }
+  },
+  {
+    "hotelId": 123,
+    "contractId": 567,
+    "rateId": 789,
+    "date": "2024-03-29T00:00:00.000Z",
+    "roomTypeCode": "DLKM",
+    "roomUse": {
+      "code": "AD+2NI",
+      "description": "AD+NI+1N",
+      "guestDistribution": {
+        "adults": 2,
+        "children": 2
+      },
+      "childAgeRange": {
+        "from": 1,
+        "to": 12
+      }
+    },
+    "boardPrices": [
+      {
+        "code": "AA",
+        "basePriceFinalVersion": {
+          "adultsPrices": [
+            100.0
+          ],
+          "childrenPrices": [
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 0,
+              "occupationType": "1N"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 138.06,
+              "occupationType": "1N"
+            }
+          ],
+          "roomPrice": 150.0,
+          "totalPrice": 300.0
+        },
+        "basePriceInitialVersion": {
+          "adultsPrices": [
+            110.0
+          ],
+          "childrenPrices": [
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 276.11,
+              "occupationType": "NI"
+            },
+            {
+              "from": 2,
+              "to": 5,
+              "amount": 0,
+              "occupationType": "1N"
+            },
+            {
+              "from": 6,
+              "to": 12,
+              "amount": 138.06,
+              "occupationType": "1N"
+            }
+          ],
+          "roomPrice": 165.0,
+          "totalPrice": 330.0
+        }
+      }
+    ],
+    "availableRooms": 6,
+    "stopSale": {
+      "active": false,
+      "reason": "NO_REASON"
+    }
+  }
+]

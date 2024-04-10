@@ -1,0 +1,21 @@
+logging:
+  level:
+    root: INFO
+    com.riu.distribution: DEBUG
+    org.springframework.data.mongodb.core: DEBUG
+    org.springframework: WARN
+    springfox.documentation: ERROR
+
+spring:
+  application:
+    name: availability-service
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers:
+      binding-retry-interval: 31536000 #retry in a year as a of being able to run the app locally / test without kafka reconnecting
+  security:
+    oauth2:
+      disabled: true
+      tokenValidation: false
